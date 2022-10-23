@@ -8,6 +8,7 @@ The postman collection for manual cases is stored in folder: postman_testcases
 - Install python for your machine, the link is here: `https://www.python.org/downloads/`
 - If your python is install successfully, you can check it by run this cmd in terminal: `python --version`
 - Install pipenv for your machine, you can find download file and install in this link: `https://pipenv.pypa.io/en/latest/`
+- Clone this repo to your local machine, and open it with VS or Pycharm
 - Activate your virtual env with pipenv using this cmd: `PIPENV_VENV_IN_PROJECT=1 pipenv shell`
 - After virtual env is activates successfully, please select interpreter for your project is this environment and select test is pytest
 - Run below cmd to install required packages to start: 
