@@ -24,7 +24,7 @@ The postman collection for manual cases is stored in folder: postman_testcases
 - Python code is shorter and more flexible than Java
 - Python community now is also huge, so it's easy to search for solution on line
 - Compare with Java testNg, Python has pytest, this testing framework is very powerfull, and lots of plugins to support. For example, to running parameters tests, I only need to mark tests run with parameters. Another is running parallel with pytest is extremely easy compare with testNg, I just need to install pytest-xdist plugin and declare threads 
-- Another reason, I really like python is its flexibility in data type initiation, for Eg. this variable: string = "This is a string" this will be automatically understood by Python compiler, but with Jave I need to write it clearly
+- Another reason, I really like python is its flexibility in data type initiation, for Eg. this variable: string = "This is a string" this will be automatically understood by Python compiler, but with Jav I need to write it clearly
 - But there are some thing I need to work around like: Python has not switch statement, and it has no matrix type either, so in theses cases, I need to find work around solutions for them
 - Another think is why I'm using pipenv, because this is one package management tool for Python, it helps activate and deactivate virtual environment automatically.
 - I'm using VS code, sometimes the combination of VS code, Python, Pytest, Pipenv are not always smoothly so the setup part need to do quite carefully
