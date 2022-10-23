@@ -29,6 +29,7 @@ The postman collection for manual cases is stored in folder: postman_testcases
 - Another think is why I'm using pipenv, because this is one package management tool for Python, it helps activate and deactivate virtual environment automatically.
 - I'm using VS code, sometimes the combination of VS code, Python, Pytest, Pipenv are not always smoothly so the setup part need to do quite carefully
 - The setup part is for Mac machine, but I tried with friend Windows machine and the steps are very similar, also run this on Gitlab CICD (Linux environment) and it still works :)
+- Things to improve for this solution: authenticase parts, environment run for Eg. UAT, staging,...
  
  ## The code structure
  - For API automation solution, I have 3 main parts: 
